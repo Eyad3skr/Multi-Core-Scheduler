@@ -57,6 +57,6 @@ y = 2
 z = 15
 
 
-  ## Instructions are passed in an array in the main.java class
+  > **Disclaimer:** Instructions are passed in an array in the Main.java class.
 
 
