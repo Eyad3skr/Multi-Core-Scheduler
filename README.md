@@ -39,6 +39,7 @@ MasterCore
 - Print the value of `p`
   
 **Output:**
+
 a = 10
 
 b = 5
